@@ -1,0 +1,8 @@
+1001;Carlos Jose;Rodriguez Perez;959595956;78525487;Av.Palmeras 4551
+1002;Juan Carlos;Mendoza Davila;958623146;8541321;Av.Micaela Bastidas 1251
+1004;Celso Dennis;Rodriguez Pacora;959655956;9221454;Av.Comas 2051
+1005;Tony Herbert;Lopez Gonzales;954554556;5862315;Av.Los Olivos 3511
+1006;Antonio Hans;Ospina Tafur;959865946;7158454;Av.Comas 7851
+1008;Jose Antonio;Valencia Cauti;921595956;3254558;Av.La Merced 4351
+1009;Rony Jean;Peceros Ripa;978156231;2355458;Av.Faucett 8951
+1010;ANT;OSPINA;TGDTERTFDG;987536453;123
